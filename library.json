@@ -24,6 +24,13 @@
     }
   ],
   "export": {
-    "include": ["SimpleConnect.h", "README.md", "library.properties"]
+    "include": [
+      "src/",
+      "examples/",
+      "include/",
+      "README.md",
+      "LICENSE",
+      "library.properties"
+    ]
   }
 }
