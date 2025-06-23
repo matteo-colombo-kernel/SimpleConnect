@@ -1,6 +1,6 @@
 {
   "name": "SimpleConnect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simplifies WiFi and WebServer management for ESP32.",
   "keywords": ["wifi", "webserver", "esp32", "access point", "captive portal"],
   "authors": [
