@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Livello_1" width="26.67" height="26.67" data-name="Livello 1" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.5px}
+    </style>
+  </defs>
+  <path d="M9.58 10H5.5a.5.5 0 0 0-.5.5v5.67c0 .27.22.5.5.5h9a.5.5 0 0 0 .5-.5v-.75M13.33 10V6.67c0-1.11-.66-3.34-3.33-3.34a3.6 3.6 0 0 0-1.56.32M13.33 10h1.17c.28 0 .5.22.5.5v.33M6.67 6.67V10M2.5 2.5l15 15" class="cls-1"/>
+</svg>

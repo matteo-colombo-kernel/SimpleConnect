@@ -1,0 +1,29 @@
+{
+  "name": "SimpleConnect",
+  "version": "1.0.0",
+  "description": "Simplifies WiFi and WebServer management for ESP32.",
+  "keywords": ["wifi", "webserver", "esp32", "access point", "captive portal"],
+  "authors": [
+    {
+      "name": "Matteo Colombo",
+      "email": "matteo.colombo@kernelstudio.it",
+      "maintainer": true
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/arduino-simpleConnect"
+  },
+  "platforms": ["espressif32"],
+  "frameworks": ["arduino"],
+  "dependencies": [
+    {
+      "name": "ArduinoJson",
+      "version": "^7.4.1",
+      "owner": "bblanchon"
+    }
+  ],
+  "export": {
+    "include": ["SimpleConnect.h", "README.md", "library.properties"]
+  }
+}
